@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name_release">Holhuashi</string>
+    <string name="app_name_debug">Holhuashi Debug</string>
+</resources>
